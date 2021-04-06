@@ -1,1 +1,1 @@
-# Beginning
+# 本次操作主要了解GitHub相关内容，会展示GitHub的相关功能（并非全部）。
